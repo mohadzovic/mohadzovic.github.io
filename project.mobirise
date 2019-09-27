@@ -34,7 +34,7 @@
     "siteFonts": [],
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
-    "siteUrl": "",
+    "siteUrl": "https://moitaliancafe.com",
     "sitemapSwitcherAuto": "on",
     "PWA": {
       "enabled": true
@@ -45,7 +45,8 @@
     "pwa-switcher": "on",
     "uniqCompNum": 29,
     "versionPublish": "4.10.8",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
